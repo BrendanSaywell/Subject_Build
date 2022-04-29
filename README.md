@@ -1,7 +1,6 @@
 <h1> "Subject" Game Jam Project </h1>
 
 <h2> Build files </h2>
-Build files/releases are located under the releases tab, or you can use the link here:
 <a href="https://github.com/BrendanSaywell/Subject_Build/releases" title="Releases">Releases/Builds</a>
 
 <h2> Credits </h2>
